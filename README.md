@@ -10,3 +10,4 @@
 - https://www.perplexity.ai/
 - https://flowgpt.com/
 - https://www.primeprompts.com/
+- https://www.veed.io/
